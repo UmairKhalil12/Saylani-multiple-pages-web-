@@ -1,0 +1,37 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: rgb(62, 61, 61);
+    overflow: hidden;
+}
+li {
+    float: left;
+  }
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+
+}
+li a:hover {
+    background-color: black;
+  }
+
+.text{
+    text-align: justify;
+    background-color: white;
+}
+
+.color{
+    background-color: white;
+}
